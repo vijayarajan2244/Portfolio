@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,100;1,200&display=swap');
+.home-bg{
+    background-color: hsl(356, 100%, 66%);
+    height: 430px;
+    width: auto;
+    border-bottom-left-radius: 200px;
+}
+.mine{
+    margin-top: 100px;
+    color: white;
+}
+.hi{
+    font-size: 40px;
+    font-weight: 100;
+    font-family: 'Poppins', sans-serif;
+}
+.name{
+    font-size: 30px;
+    font-weight: 200;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 30px;
+}
+.namehigh{
+    font-weight: bold;
+}
+.rolehigh{
+    font-weight: bold;
+}
+.role{
+    font-size: 30px;
+    font-weight: 500;
+    font-style: italic;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 40px;
+}
+.frontend-image>img{
+    margin-left: 180px;
+    margin-top: 50px;
+}
+.scroll-btn{
+    font-size: 60px;
+    margin-left: 635px;
+    margin-top: 30px;
+}
+.scroll-btn>a{
+    color: rgb(44, 37, 37);
+}
+.scroll-btn>a:hover{
+    color: hsl(356, 100%, 66%);
+}
+
+.heading{
+    text-align: center;
+    font-weight: 300;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 100px;
+    font-family: 'Poppins', sans-serif;
+}
+.ssc{
+    margin-top: 30px;
+}
+.hsc,.degree{
+    margin-top: 45px;
+}
+.category{
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+}
+.inst{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    font-style: italic;
+    margin-left: 40px;
+
+}
+.year{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    font-size: 18px;
+}
+.marks{
+    float: left;
+    margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+
+}
+.skill{
+    text-align: center;
+    font-weight: 300;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 60px;
+    font-family: 'Poppins', sans-serif;
+}
+.html,.css,.boot,.js{
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+    border-radius: 30px;
+}
+.html>img,
+.css>img,
+.js>img{
+    margin-left: 40px;
+}
+.card2{
+    margin-top: -80px;
+}
+.card3{
+    margin-top: -80px;
+}
+.card4{
+    margin-top: -80px;
+}
+.boot>img{
+    margin-left: 50px;
+    height: 130px;
+}
+.landing>button{
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border: 1px solid hsl(356, 100%, 66%);
+    color: hsl(356, 100%, 66%);
+}
+.landing>button:hover{
+    background-color: hsl(356, 100%, 66%);
+    color: white;
+}
+.landing>button>a{
+    text-decoration: none;
+    color: hsl(356, 100%, 66%);
+}
+.landing>button>a:hover{
+    color: white;
+}
+.landing>button:hover{
+    color: white;
+}
+.messanger,.page,.gst{
+    font-size: 22px;
+}
+.portfolio{
+    font-size: 25px;
+}
+.about{
+    background-color:rgb(74, 134, 246);
+    height: 700px;
+}
+.para{
+    border-radius: 50px;
+}
+.para>p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 21px;
+    line-height: 65px;
+    text-indent: 30px;
+
+}
+.contact{
+    background-color: rgb(35, 56, 56);
+    height: 300px;
+}
+.mail>a,.ph>a,.linkedin>a,.github>a{
+    text-decoration: none;
+    color: white;
+    
+}
+.mail>a:hover{
+    color: hsl(356, 100%, 66%);
+    
+}
+.ph>a:hover{
+    color: hsl(356, 100%, 66%);
+}
+.linkedin>a:hover{
+    color: hsl(356, 100%, 66%);
+}
+.github>a:hover{
+    color: hsl(356, 100%, 66%);
+}
+
+
+
+
+
+
+
+
+
+
+
+

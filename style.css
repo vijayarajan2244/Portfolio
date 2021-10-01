@@ -201,7 +201,13 @@
     margin-left: 70px;
 }
 
+
+/*  XS Screen Device  */
 @media screen and (max-width:576px) {
+    html,body{
+        overflow-x: hidden;
+        width: 100%;
+    }
 
     .home-bg{
         background-color: hsl(356, 100%, 66%);
